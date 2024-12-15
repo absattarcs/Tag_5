@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+    padding-left: 5px;
+    margin-left: 10px;
+    font-style: bold;
+}
+.pets {
+    border: 1px solid black;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.dog li{
+    list-style-type: "🐶";
+}
+
+.cat li {
+    list-style-type: "🐱";
+}
+.parrot li {
+    list-style-type: "🦜";
+}
+.snake li {
+    list-style-type: "🐍";
+}
+.lizard li {
+    list-style-type: "🦎";
+}
